@@ -48,9 +48,16 @@ Le site est accessible librement, sans inscription, sans collecte de données pe
 
 ---
 
-## Captures d'écran
+## Captures d'écran du site MDNX Finance
 
-> Captures à ajouter dans `docs/screenshots/` puis décommenter les lignes ci-dessous.
+<img width="2748" height="1530" alt="image" src="https://github.com/user-attachments/assets/30d60428-0da5-488e-bc30-8239e8d0b395" />
+
+<img width="3096" height="1604" alt="image" src="https://github.com/user-attachments/assets/87dc3d9b-a09f-4b21-84e3-02982607b311" />
+
+<img width="3096" height="1604" alt="image" src="https://github.com/user-attachments/assets/e2bd5df6-da14-4863-87c4-a8880934fb74" />
+
+<img width="2936" height="1482" alt="image" src="https://github.com/user-attachments/assets/c56c96cf-78ee-49f4-8f8b-8af199a145c7" />
+
 
 <!--
 ![Accueil — MDNX Finance](docs/screenshots/home.png)
@@ -115,7 +122,7 @@ Pour toute question, suggestion d'amélioration, signalement de bug ou demande d
 
 <div align="center">
 
-**MDNX Finance** — Édité par Johan SAINT-PRIX — France, Île-de-France
+**MDNX Finance** — Édité par Johan SAINT-PRIX — France
 © 2026 — Tous droits réservés
 
 </div>
